@@ -1,4 +1,4 @@
-package snakegame;
+package objects;
 
 import objects.Apple;
 import objects.Snake;

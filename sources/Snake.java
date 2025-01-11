@@ -1,7 +1,5 @@
 package objects;
 
-import snakegame.SnakeGame;
-
 public class Snake {
 
     SnakeGame main;
